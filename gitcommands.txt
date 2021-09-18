@@ -147,4 +147,1472 @@ $ cd flutter
 Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
 $ cat readme.md
 # [![Flutter logo][]][flutter.dev]
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 608 bytes | 608.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Shantanu66/Git-Github.git
+   1d15cdd..e56287f  master -> master
+
+Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ ls -a
+ ./
+ ../
+ .git/
+'Android Studio'/
+ AndroidStudioProjects/
+ C++/
+ CN_NOTES/
+'Certificate Game Development.pdf'
+'Covid Vaccination'/
+ GRE/
+'GameDev Certificate.jpg'
+'Google DevFest.pdf'
+ ID/
+'IncubateInd-Certificate (1).png'
+ Keys.kdbx
+'MachineLearning Certificate.pdf'
+'Operating System'/
+ Python/
+ Python.pdf
+ Python1.pdf
+ Python2.pdf
+'Python3 Specialization.pdf'
+ Python3.pdf
+ Python4.pdf
+ Python5.pdf
+'Screenshot (292).png'
+'Shantanu Roy-GCCD-India.pdf'
+'Shantanu Roy-IWD-India-2021-Certificate.pdf'
+ VID_20191012_073907.mp4
+ apps/
+ flutter/
+'fullstack(Python+Django).png'
+ gitcommands.txt
+ password/
+'~$stProgrammingLanguages.rtf'
+
+Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ git log
+commit e56287f1f1ebbec732034d736b3a58b6b8212e05 (HEAD -> master, origin/master)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 14:59:54 2021 +0530
+
+    New changes
+
+commit 1d15cddb17913f4e6ad5316960944b33b43b96b1
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 14:19:44 2021 +0530
+
+    Git and Github commands
+
+Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ git -v
+unknown option: -v
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ git -a
+unknown option: -a
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+Shantanu@SHANTANU-ROG MINGW64 /d/Shantanu (master)
+$ git remote add origin https://github.com/Shantanu66/Git-Github.git
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop
+$ git clone https://github.com/Shantanu66/flutter.git
+Cloning into 'flutter'...
+remote: Enumerating objects: 335924, done.
+remote: Total 335924 (delta 0), reused 0 (delta 0), pack-reused 335924
+Receiving objects: 100% (335924/335924), 162.14 MiB | 11.41 MiB/s, done.
+Resolving deltas: 100% (258623/258623), done.
+Updating files: 100% (5900/5900), done.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop
+$ cd flutter
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ cat readme.md
+# [![Flutter logo][]][flutter.dev]
+
+[![Build Status - Cirrus][]][Build status]
+[![Discord badge][]][Discord instructions]
+[![Twitter handle][]][Twitter badge]
+
+Flutter is Google's SDK for crafting beautiful, fast user experiences for
+mobile, web, and desktop from a single codebase. Flutter works with existing
+code, is used by developers and organizations around the world, and is free
+and open source.
+
+## Documentation
+
+* [Install Flutter](https://flutter.dev/get-started/)
+* [Flutter documentation](https://flutter.dev/docs)
+* [Development wiki](https://github.com/flutter/flutter/wiki)
+* [Contributing to Flutter](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
+
+For announcements about new releases and breaking changes, follow the
+[flutter-announce@googlegroups.com](https://groups.google.com/forum/#!forum/flutter-announce)
+mailing list or see the
+[breaking changes](https://flutter.dev/docs/release/breaking-changes) page.
+
+## Terms of service
+
+The Flutter tool may occasionally download resources from Google servers. By downloading or using the Flutter SDK you agree to the Google Terms of Service: https://policies.google.com/terms
+
+For example, when installed from GitHub (as opposed to from a prepackaged archive), the Flutter tool will download the Dart SDK from Google servers immediately when first run, as it is used to execute the "flutter" tool itself. This will also occur when Flutter is upgraded (e.g. by running the "flutter upgrade" command).
+
+## About Flutter
+
+We think Flutter will help you create beautiful, fast apps, with a productive,
+extensible and open development model.
+
+### Beautiful user experiences
+
+We want to enable designers to deliver their full creative vision without being
+forced to water it down due to limitations of the underlying framework.
+Flutter's [layered architecture] gives you control over every pixel on the
+screen and its powerful compositing capabilities let you overlay and animate
+graphics, video, text, and controls without limitation. Flutter includes a full
+[set of widgets][widget catalog] that deliver pixel-perfect experiences on both
+iOS and Android.
+
+![Reflectly hero image][Reflectly hero image]
+
+### Fast results
+
+Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
+library that underpins Chrome and Android: [Skia]. We architected Flutter to
+support glitch-free, jank-free graphics at the native speed of your device.
+Flutter code is powered by the world-class [Dart platform], which enables
+compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
+as JavaScript for the web and Intel x64 for desktop devices.
+
+![Dart platform diagram][]
+
+### Productive development
+
+Flutter offers stateful hot reload, allowing you to make changes to your code
+and see the results instantly without restarting your app or losing its state.
+
+[![Hot reload animation][]][Hot reload]
+
+### Extensible and open model
+
+Flutter works with any development tool (or none at all) but includes editor
+plug-ins for both [Visual Studio Code] and [IntelliJ / Android Studio]. Flutter
+provides [thousands of packages][Flutter packages] to speed your development,
+regardless of your target platform. And accessing other native code is easy,
+with support for both [FFI] and [platform-specific APIs][platform channels].
+
+Flutter is a fully open-source project, and we welcome contributions.
+Information on how to get started can be found in our
+[contributor guide](CONTRIBUTING.md).
+
+[Flutter logo]: https://github.com/flutter/website/blob/archived-master/src/_assets/image/flutter-lockup-bg.jpg?raw=true
+[flutter.dev]: https://flutter.dev
+[Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
+[Build status]: https://cirrus-ci.com/github/flutter/flutter/master
+[Discord instructions]: https://github.com/flutter/flutter/wiki/Chat
+[Discord badge]: https://img.shields.io/discord/608014603317936148
+[Twitter handle]: https://img.shields.io/twitter/follow/flutterdev.svg?style=social&label=Follow
+[Twitter badge]: https://twitter.com/intent/follow?screen_name=flutterdev
+[layered architecture]: https://flutter.dev/docs/resources/inside-flutter
+[widget catalog]: https://flutter.dev/widgets/
+[Reflectly hero image]: https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true
+[Skia]: https://skia.org/
+[Dart platform]: https://dart.dev/
+[Dart platform diagram]: https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true
+[Hot reload animation]: https://github.com/flutter/website/blob/main/src/assets/images/docs/tools/android-studio/hot-reload.gif?raw=true
+[Hot reload]: https://flutter.dev/docs/development/tools/hot-reload
+[Visual Studio Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
+[IntelliJ / Android Studio]: https://plugins.jetbrains.com/plugin/9212-flutter
+[Flutter packages]: https://pub.dev/flutter
+[FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
+[platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
+[interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ ^C
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git remote add upstream https://github.com/Shantanu66/flutter.git
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git remote -v
+origin  https://github.com/Shantanu66/flutter.git (fetch)
+origin  https://github.com/Shantanu66/flutter.git (push)
+upstream        https://github.com/Shantanu66/flutter.git (fetch)
+upstream        https://github.com/Shantanu66/flutter.git (push)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git remote add upstream https://github.com/Shantanu66/flutter.git
+error: remote upstream already exists.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ vi readme.md
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git branch Shantanu
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git checkout Shantanu
+Switched to branch 'Shantanu'
+M       README.md
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git commit -m "Shantanu added a message"
+[Shantanu 6dd74443d4] Shantanu added a message
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git push origin Shantanu
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 310 bytes | 310.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote:
+remote: Create a pull request for 'Shantanu' on GitHub by visiting:
+remote:      https://github.com/Shantanu66/flutter/pull/new/Shantanu
+remote:
+To https://github.com/Shantanu66/flutter.git
+ * [new branch]            Shantanu -> Shantanu
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ touch names.txt
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git commit -m "name.txt created"
+[Shantanu 340fbd4c79] name.txt created
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 names.txt
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git push origin Shantanu
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 277 bytes | 27.00 KiB/s, done.
+Total 3 (delta 1), reused 1 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Shantanu66/flutter.git
+   6dd74443d4..340fbd4c79  Shantanu -> Shantanu
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+nothing to commit, working tree clean
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 340fbd4c79dd31b1e6fbb37e450cca6f9b5ff24b (HEAD -> Shantanu, origin/Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:22:20 2021 +0530
+
+    name.txt created
+
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git reset 6dd74443d4fe1a3f6cba4cda71c09e07d052590e
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        names.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git stash
+Saved working directory and index state WIP on Shantanu: 6dd74443d4 Shantanu added a message
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+nothing to commit, working tree clean
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git push origin Shantanu -f
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Shantanu66/flutter.git
+ + 340fbd4c79...6dd74443d4 Shantanu -> Shantanu (forced update)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu, origin/Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git stash pop
+On branch Shantanu
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+Dropped refs/stash@{0} (8b1bfaf0c3b8590db79949eb99a1a6727fe3f1ba)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git stash
+Saved working directory and index state WIP on Shantanu: 6dd74443d4 Shantanu added a message
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+nothing to commit, working tree clean
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git checkout main
+error: pathspec 'main' did not match any file(s) known to git
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> master, origin/master, origin/HEAD)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git fetch --all --prune
+Fetching origin
+Fetching upstream
+From https://github.com/Shantanu66/flutter
+ * [new branch]            CaseyHillers-patch-1   -> upstream/CaseyHillers-patch-1
+ * [new branch]            Hixie-patch-1          -> upstream/Hixie-patch-1
+ * [new branch]            Hixie-patch-2          -> upstream/Hixie-patch-2
+ * [new branch]            Shantanu               -> upstream/Shantanu
+ * [new branch]            alert-dialog           -> upstream/alert-dialog
+ * [new branch]            beta                   -> upstream/beta
+ * [new branch]            dev                    -> upstream/dev
+ * [new branch]            dnfield-patch-1        -> upstream/dnfield-patch-1
+ * [new branch]            dwds-integration       -> upstream/dwds-integration
+ * [new branch]            experimental_skshaper  -> upstream/experimental_skshaper
+ * [new branch]            flexible-drawer-header-height -> upstream/flexible-drawer-header-height
+ * [new branch]            flutter-1.17-candidate.0 -> upstream/flutter-1.17-candidate.0
+ * [new branch]            flutter-1.17-candidate.1 -> upstream/flutter-1.17-candidate.1
+ * [new branch]            flutter-1.17-candidate.2 -> upstream/flutter-1.17-candidate.2
+ * [new branch]            flutter-1.17-candidate.3 -> upstream/flutter-1.17-candidate.3
+ * [new branch]            flutter-1.17-candidate.4 -> upstream/flutter-1.17-candidate.4
+ * [new branch]            flutter-1.17-candidate.5 -> upstream/flutter-1.17-candidate.5
+ * [new branch]            flutter-1.18-candidate.0 -> upstream/flutter-1.18-candidate.0
+ * [new branch]            flutter-1.18-candidate.1 -> upstream/flutter-1.18-candidate.1
+ * [new branch]            flutter-1.18-candidate.10 -> upstream/flutter-1.18-candidate.10
+ * [new branch]            flutter-1.18-candidate.11 -> upstream/flutter-1.18-candidate.11
+ * [new branch]            flutter-1.18-candidate.12 -> upstream/flutter-1.18-candidate.12
+ * [new branch]            flutter-1.18-candidate.13 -> upstream/flutter-1.18-candidate.13
+ * [new branch]            flutter-1.18-candidate.2 -> upstream/flutter-1.18-candidate.2
+ * [new branch]            flutter-1.18-candidate.3 -> upstream/flutter-1.18-candidate.3
+ * [new branch]            flutter-1.18-candidate.4 -> upstream/flutter-1.18-candidate.4
+ * [new branch]            flutter-1.18-candidate.5 -> upstream/flutter-1.18-candidate.5
+ * [new branch]            flutter-1.18-candidate.6 -> upstream/flutter-1.18-candidate.6
+ * [new branch]            flutter-1.18-candidate.7 -> upstream/flutter-1.18-candidate.7
+ * [new branch]            flutter-1.18-candidate.8 -> upstream/flutter-1.18-candidate.8
+ * [new branch]            flutter-1.18-candidate.9 -> upstream/flutter-1.18-candidate.9
+ * [new branch]            flutter-1.19-candidate.0 -> upstream/flutter-1.19-candidate.0
+ * [new branch]            flutter-1.19-candidate.1 -> upstream/flutter-1.19-candidate.1
+ * [new branch]            flutter-1.19-candidate.2 -> upstream/flutter-1.19-candidate.2
+ * [new branch]            flutter-1.19-candidate.3 -> upstream/flutter-1.19-candidate.3
+ * [new branch]            flutter-1.19-candidate.4 -> upstream/flutter-1.19-candidate.4
+ * [new branch]            flutter-1.19-candidate.5 -> upstream/flutter-1.19-candidate.5
+ * [new branch]            flutter-1.20-candidate.0 -> upstream/flutter-1.20-candidate.0
+ * [new branch]            flutter-1.20-candidate.1 -> upstream/flutter-1.20-candidate.1
+ * [new branch]            flutter-1.20-candidate.2 -> upstream/flutter-1.20-candidate.2
+ * [new branch]            flutter-1.20-candidate.3 -> upstream/flutter-1.20-candidate.3
+ * [new branch]            flutter-1.20-candidate.3.renyou_experiment -> upstream/flutter-1.20-candidate.3.renyou_experiment
+ * [new branch]            flutter-1.20-candidate.4 -> upstream/flutter-1.20-candidate.4
+ * [new branch]            flutter-1.20-candidate.5 -> upstream/flutter-1.20-candidate.5
+ * [new branch]            flutter-1.20-candidate.6 -> upstream/flutter-1.20-candidate.6
+ * [new branch]            flutter-1.20-candidate.7 -> upstream/flutter-1.20-candidate.7
+ * [new branch]            flutter-1.20-candidate.8 -> upstream/flutter-1.20-candidate.8
+ * [new branch]            flutter-1.21-candidate.0 -> upstream/flutter-1.21-candidate.0
+ * [new branch]            flutter-1.21-candidate.1 -> upstream/flutter-1.21-candidate.1
+ * [new branch]            flutter-1.21-candidate.10 -> upstream/flutter-1.21-candidate.10
+ * [new branch]            flutter-1.21-candidate.2 -> upstream/flutter-1.21-candidate.2
+ * [new branch]            flutter-1.21-candidate.3 -> upstream/flutter-1.21-candidate.3
+ * [new branch]            flutter-1.21-candidate.4 -> upstream/flutter-1.21-candidate.4
+ * [new branch]            flutter-1.21-candidate.5 -> upstream/flutter-1.21-candidate.5
+ * [new branch]            flutter-1.21-candidate.6 -> upstream/flutter-1.21-candidate.6
+ * [new branch]            flutter-1.21-candidate.7 -> upstream/flutter-1.21-candidate.7
+ * [new branch]            flutter-1.21-candidate.8 -> upstream/flutter-1.21-candidate.8
+ * [new branch]            flutter-1.21-candidate.9 -> upstream/flutter-1.21-candidate.9
+ * [new branch]            flutter-1.22-candidate.0 -> upstream/flutter-1.22-candidate.0
+ * [new branch]            flutter-1.22-candidate.1 -> upstream/flutter-1.22-candidate.1
+ * [new branch]            flutter-1.22-candidate.10 -> upstream/flutter-1.22-candidate.10
+ * [new branch]            flutter-1.22-candidate.11 -> upstream/flutter-1.22-candidate.11
+ * [new branch]            flutter-1.22-candidate.12 -> upstream/flutter-1.22-candidate.12
+ * [new branch]            flutter-1.22-candidate.13 -> upstream/flutter-1.22-candidate.13
+ * [new branch]            flutter-1.22-candidate.2 -> upstream/flutter-1.22-candidate.2
+ * [new branch]            flutter-1.22-candidate.3 -> upstream/flutter-1.22-candidate.3
+ * [new branch]            flutter-1.22-candidate.4 -> upstream/flutter-1.22-candidate.4
+ * [new branch]            flutter-1.22-candidate.5 -> upstream/flutter-1.22-candidate.5
+ * [new branch]            flutter-1.22-candidate.6 -> upstream/flutter-1.22-candidate.6
+ * [new branch]            flutter-1.22-candidate.7 -> upstream/flutter-1.22-candidate.7
+ * [new branch]            flutter-1.22-candidate.8 -> upstream/flutter-1.22-candidate.8
+ * [new branch]            flutter-1.22-candidate.9 -> upstream/flutter-1.22-candidate.9
+ * [new branch]            flutter-1.23-candidate.0 -> upstream/flutter-1.23-candidate.0
+ * [new branch]            flutter-1.23-candidate.1 -> upstream/flutter-1.23-candidate.1
+ * [new branch]            flutter-1.23-candidate.10 -> upstream/flutter-1.23-candidate.10
+ * [new branch]            flutter-1.23-candidate.11 -> upstream/flutter-1.23-candidate.11
+ * [new branch]            flutter-1.23-candidate.12 -> upstream/flutter-1.23-candidate.12
+ * [new branch]            flutter-1.23-candidate.13 -> upstream/flutter-1.23-candidate.13
+ * [new branch]            flutter-1.23-candidate.14 -> upstream/flutter-1.23-candidate.14
+ * [new branch]            flutter-1.23-candidate.15 -> upstream/flutter-1.23-candidate.15
+ * [new branch]            flutter-1.23-candidate.16 -> upstream/flutter-1.23-candidate.16
+ * [new branch]            flutter-1.23-candidate.17 -> upstream/flutter-1.23-candidate.17
+ * [new branch]            flutter-1.23-candidate.18 -> upstream/flutter-1.23-candidate.18
+ * [new branch]            flutter-1.23-candidate.2 -> upstream/flutter-1.23-candidate.2
+ * [new branch]            flutter-1.23-candidate.3 -> upstream/flutter-1.23-candidate.3
+ * [new branch]            flutter-1.23-candidate.4 -> upstream/flutter-1.23-candidate.4
+ * [new branch]            flutter-1.23-candidate.5 -> upstream/flutter-1.23-candidate.5
+ * [new branch]            flutter-1.23-candidate.6 -> upstream/flutter-1.23-candidate.6
+ * [new branch]            flutter-1.23-candidate.7 -> upstream/flutter-1.23-candidate.7
+ * [new branch]            flutter-1.23-candidate.8 -> upstream/flutter-1.23-candidate.8
+ * [new branch]            flutter-1.23-candidate.9 -> upstream/flutter-1.23-candidate.9
+ * [new branch]            flutter-1.24-candidate.0 -> upstream/flutter-1.24-candidate.0
+ * [new branch]            flutter-1.24-candidate.1 -> upstream/flutter-1.24-candidate.1
+ * [new branch]            flutter-1.24-candidate.10 -> upstream/flutter-1.24-candidate.10
+ * [new branch]            flutter-1.24-candidate.11 -> upstream/flutter-1.24-candidate.11
+ * [new branch]            flutter-1.24-candidate.12 -> upstream/flutter-1.24-candidate.12
+ * [new branch]            flutter-1.24-candidate.2 -> upstream/flutter-1.24-candidate.2
+ * [new branch]            flutter-1.24-candidate.3 -> upstream/flutter-1.24-candidate.3
+ * [new branch]            flutter-1.24-candidate.4 -> upstream/flutter-1.24-candidate.4
+ * [new branch]            flutter-1.24-candidate.5 -> upstream/flutter-1.24-candidate.5
+ * [new branch]            flutter-1.24-candidate.6 -> upstream/flutter-1.24-candidate.6
+ * [new branch]            flutter-1.24-candidate.7 -> upstream/flutter-1.24-candidate.7
+ * [new branch]            flutter-1.24-candidate.8 -> upstream/flutter-1.24-candidate.8
+ * [new branch]            flutter-1.24-candidate.9 -> upstream/flutter-1.24-candidate.9
+ * [new branch]            flutter-1.25-candidate.0 -> upstream/flutter-1.25-candidate.0
+ * [new branch]            flutter-1.25-candidate.1 -> upstream/flutter-1.25-candidate.1
+ * [new branch]            flutter-1.25-candidate.2 -> upstream/flutter-1.25-candidate.2
+ * [new branch]            flutter-1.25-candidate.3 -> upstream/flutter-1.25-candidate.3
+ * [new branch]            flutter-1.25-candidate.4 -> upstream/flutter-1.25-candidate.4
+ * [new branch]            flutter-1.25-candidate.5 -> upstream/flutter-1.25-candidate.5
+ * [new branch]            flutter-1.25-candidate.6 -> upstream/flutter-1.25-candidate.6
+ * [new branch]            flutter-1.25-candidate.7 -> upstream/flutter-1.25-candidate.7
+ * [new branch]            flutter-1.25-candidate.8 -> upstream/flutter-1.25-candidate.8
+ * [new branch]            flutter-1.26-candidate.0 -> upstream/flutter-1.26-candidate.0
+ * [new branch]            flutter-1.26-candidate.1 -> upstream/flutter-1.26-candidate.1
+ * [new branch]            flutter-1.26-candidate.10 -> upstream/flutter-1.26-candidate.10
+ * [new branch]            flutter-1.26-candidate.11 -> upstream/flutter-1.26-candidate.11
+ * [new branch]            flutter-1.26-candidate.12 -> upstream/flutter-1.26-candidate.12
+ * [new branch]            flutter-1.26-candidate.13 -> upstream/flutter-1.26-candidate.13
+ * [new branch]            flutter-1.26-candidate.14 -> upstream/flutter-1.26-candidate.14
+ * [new branch]            flutter-1.26-candidate.15 -> upstream/flutter-1.26-candidate.15
+ * [new branch]            flutter-1.26-candidate.16 -> upstream/flutter-1.26-candidate.16
+ * [new branch]            flutter-1.26-candidate.17 -> upstream/flutter-1.26-candidate.17
+ * [new branch]            flutter-1.26-candidate.2 -> upstream/flutter-1.26-candidate.2
+ * [new branch]            flutter-1.26-candidate.3 -> upstream/flutter-1.26-candidate.3
+ * [new branch]            flutter-1.26-candidate.4 -> upstream/flutter-1.26-candidate.4
+ * [new branch]            flutter-1.26-candidate.5 -> upstream/flutter-1.26-candidate.5
+ * [new branch]            flutter-1.26-candidate.6 -> upstream/flutter-1.26-candidate.6
+ * [new branch]            flutter-1.26-candidate.7 -> upstream/flutter-1.26-candidate.7
+ * [new branch]            flutter-1.26-candidate.8 -> upstream/flutter-1.26-candidate.8
+ * [new branch]            flutter-1.26-candidate.9 -> upstream/flutter-1.26-candidate.9
+ * [new branch]            flutter-1.27-candidate.0 -> upstream/flutter-1.27-candidate.0
+ * [new branch]            flutter-1.27-candidate.1 -> upstream/flutter-1.27-candidate.1
+ * [new branch]            flutter-1.27-candidate.10 -> upstream/flutter-1.27-candidate.10
+ * [new branch]            flutter-1.27-candidate.11 -> upstream/flutter-1.27-candidate.11
+ * [new branch]            flutter-1.27-candidate.12 -> upstream/flutter-1.27-candidate.12
+ * [new branch]            flutter-1.27-candidate.13 -> upstream/flutter-1.27-candidate.13
+ * [new branch]            flutter-1.27-candidate.14 -> upstream/flutter-1.27-candidate.14
+ * [new branch]            flutter-1.27-candidate.15 -> upstream/flutter-1.27-candidate.15
+ * [new branch]            flutter-1.27-candidate.2 -> upstream/flutter-1.27-candidate.2
+ * [new branch]            flutter-1.27-candidate.3 -> upstream/flutter-1.27-candidate.3
+ * [new branch]            flutter-1.27-candidate.4 -> upstream/flutter-1.27-candidate.4
+ * [new branch]            flutter-1.27-candidate.5 -> upstream/flutter-1.27-candidate.5
+ * [new branch]            flutter-1.27-candidate.6 -> upstream/flutter-1.27-candidate.6
+ * [new branch]            flutter-1.27-candidate.7 -> upstream/flutter-1.27-candidate.7
+ * [new branch]            flutter-1.27-candidate.8 -> upstream/flutter-1.27-candidate.8
+ * [new branch]            flutter-1.27-candidate.9 -> upstream/flutter-1.27-candidate.9
+ * [new branch]            flutter-2.2-candidate.0 -> upstream/flutter-2.2-candidate.0
+ * [new branch]            flutter-2.2-candidate.1 -> upstream/flutter-2.2-candidate.1
+ * [new branch]            flutter-2.2-candidate.10 -> upstream/flutter-2.2-candidate.10
+ * [new branch]            flutter-2.2-candidate.11 -> upstream/flutter-2.2-candidate.11
+ * [new branch]            flutter-2.2-candidate.12 -> upstream/flutter-2.2-candidate.12
+ * [new branch]            flutter-2.2-candidate.13 -> upstream/flutter-2.2-candidate.13
+ * [new branch]            flutter-2.2-candidate.14 -> upstream/flutter-2.2-candidate.14
+ * [new branch]            flutter-2.2-candidate.15 -> upstream/flutter-2.2-candidate.15
+ * [new branch]            flutter-2.2-candidate.16 -> upstream/flutter-2.2-candidate.16
+ * [new branch]            flutter-2.2-candidate.2 -> upstream/flutter-2.2-candidate.2
+ * [new branch]            flutter-2.2-candidate.3 -> upstream/flutter-2.2-candidate.3
+ * [new branch]            flutter-2.2-candidate.4 -> upstream/flutter-2.2-candidate.4
+ * [new branch]            flutter-2.2-candidate.5 -> upstream/flutter-2.2-candidate.5
+ * [new branch]            flutter-2.2-candidate.6 -> upstream/flutter-2.2-candidate.6
+ * [new branch]            flutter-2.2-candidate.7 -> upstream/flutter-2.2-candidate.7
+ * [new branch]            flutter-2.2-candidate.8 -> upstream/flutter-2.2-candidate.8
+ * [new branch]            flutter-2.2-candidate.9 -> upstream/flutter-2.2-candidate.9
+ * [new branch]            flutter-2.3-candidate.0 -> upstream/flutter-2.3-candidate.0
+ * [new branch]            flutter-2.3-candidate.1 -> upstream/flutter-2.3-candidate.1
+ * [new branch]            flutter-2.3-candidate.10 -> upstream/flutter-2.3-candidate.10
+ * [new branch]            flutter-2.3-candidate.11 -> upstream/flutter-2.3-candidate.11
+ * [new branch]            flutter-2.3-candidate.12 -> upstream/flutter-2.3-candidate.12
+ * [new branch]            flutter-2.3-candidate.13 -> upstream/flutter-2.3-candidate.13
+ * [new branch]            flutter-2.3-candidate.14 -> upstream/flutter-2.3-candidate.14
+ * [new branch]            flutter-2.3-candidate.15 -> upstream/flutter-2.3-candidate.15
+ * [new branch]            flutter-2.3-candidate.16 -> upstream/flutter-2.3-candidate.16
+ * [new branch]            flutter-2.3-candidate.17 -> upstream/flutter-2.3-candidate.17
+ * [new branch]            flutter-2.3-candidate.18 -> upstream/flutter-2.3-candidate.18
+ * [new branch]            flutter-2.3-candidate.19 -> upstream/flutter-2.3-candidate.19
+ * [new branch]            flutter-2.3-candidate.2 -> upstream/flutter-2.3-candidate.2
+ * [new branch]            flutter-2.3-candidate.20 -> upstream/flutter-2.3-candidate.20
+ * [new branch]            flutter-2.3-candidate.21 -> upstream/flutter-2.3-candidate.21
+ * [new branch]            flutter-2.3-candidate.22 -> upstream/flutter-2.3-candidate.22
+ * [new branch]            flutter-2.3-candidate.23 -> upstream/flutter-2.3-candidate.23
+ * [new branch]            flutter-2.3-candidate.24 -> upstream/flutter-2.3-candidate.24
+ * [new branch]            flutter-2.3-candidate.25 -> upstream/flutter-2.3-candidate.25
+ * [new branch]            flutter-2.3-candidate.26 -> upstream/flutter-2.3-candidate.26
+ * [new branch]            flutter-2.3-candidate.27 -> upstream/flutter-2.3-candidate.27
+ * [new branch]            flutter-2.3-candidate.28 -> upstream/flutter-2.3-candidate.28
+ * [new branch]            flutter-2.3-candidate.3 -> upstream/flutter-2.3-candidate.3
+ * [new branch]            flutter-2.3-candidate.4 -> upstream/flutter-2.3-candidate.4
+ * [new branch]            flutter-2.3-candidate.5 -> upstream/flutter-2.3-candidate.5
+ * [new branch]            flutter-2.3-candidate.6 -> upstream/flutter-2.3-candidate.6
+ * [new branch]            flutter-2.3-candidate.7 -> upstream/flutter-2.3-candidate.7
+ * [new branch]            flutter-2.3-candidate.8 -> upstream/flutter-2.3-candidate.8
+ * [new branch]            flutter-2.3-candidate.9 -> upstream/flutter-2.3-candidate.9
+ * [new branch]            flutter-2.4-candidate.0 -> upstream/flutter-2.4-candidate.0
+ * [new branch]            flutter-2.4-candidate.1 -> upstream/flutter-2.4-candidate.1
+ * [new branch]            flutter-2.4-candidate.2 -> upstream/flutter-2.4-candidate.2
+ * [new branch]            flutter-2.4-candidate.3 -> upstream/flutter-2.4-candidate.3
+ * [new branch]            flutter-2.4-candidate.4 -> upstream/flutter-2.4-candidate.4
+ * [new branch]            flutter-2.4-candidate.5 -> upstream/flutter-2.4-candidate.5
+ * [new branch]            flutter-2.4-candidate.6 -> upstream/flutter-2.4-candidate.6
+ * [new branch]            flutter-2.4-candidate.7 -> upstream/flutter-2.4-candidate.7
+ * [new branch]            flutter-2.4-candidate.8 -> upstream/flutter-2.4-candidate.8
+ * [new branch]            flutter-2.5-candidate.0 -> upstream/flutter-2.5-candidate.0
+ * [new branch]            flutter-2.5-candidate.1 -> upstream/flutter-2.5-candidate.1
+ * [new branch]            flutter-2.5-candidate.2 -> upstream/flutter-2.5-candidate.2
+ * [new branch]            flutter-2.5-candidate.3 -> upstream/flutter-2.5-candidate.3
+ * [new branch]            flutter-2.5-candidate.4 -> upstream/flutter-2.5-candidate.4
+ * [new branch]            flutter-2.5-candidate.5 -> upstream/flutter-2.5-candidate.5
+ * [new branch]            flutter-2.5-candidate.6 -> upstream/flutter-2.5-candidate.6
+ * [new branch]            flutter-2.5-candidate.7 -> upstream/flutter-2.5-candidate.7
+ * [new branch]            flutter-2.5-candidate.8 -> upstream/flutter-2.5-candidate.8
+ * [new branch]            flutter-2.5-candidate.9 -> upstream/flutter-2.5-candidate.9
+ * [new branch]            flutter-2.6-candidate.0 -> upstream/flutter-2.6-candidate.0
+ * [new branch]            flutter-2.6-candidate.1 -> upstream/flutter-2.6-candidate.1
+ * [new branch]            flutter-2.6-candidate.10 -> upstream/flutter-2.6-candidate.10
+ * [new branch]            flutter-2.6-candidate.11 -> upstream/flutter-2.6-candidate.11
+ * [new branch]            flutter-2.6-candidate.2 -> upstream/flutter-2.6-candidate.2
+ * [new branch]            flutter-2.6-candidate.3 -> upstream/flutter-2.6-candidate.3
+ * [new branch]            flutter-2.6-candidate.4 -> upstream/flutter-2.6-candidate.4
+ * [new branch]            flutter-2.6-candidate.5 -> upstream/flutter-2.6-candidate.5
+ * [new branch]            flutter-2.6-candidate.6 -> upstream/flutter-2.6-candidate.6
+ * [new branch]            flutter-2.6-candidate.7 -> upstream/flutter-2.6-candidate.7
+ * [new branch]            flutter-2.6-candidate.8 -> upstream/flutter-2.6-candidate.8
+ * [new branch]            flutter-2.6-candidate.9 -> upstream/flutter-2.6-candidate.9
+ * [new branch]            master                 -> upstream/master
+ * [new branch]            pull-87493             -> upstream/pull-87493
+ * [new branch]            reland-uithread-speed  -> upstream/reland-uithread-speed
+ * [new branch]            revert-65109-revert-64988-bonjour-service -> upstream/revert-65109-revert-64988-bonjour-service
+ * [new branch]            revert-67320-provide_old_layers -> upstream/revert-67320-provide_old_layers
+ * [new branch]            revert-68638-text-editing-value-null -> upstream/revert-68638-text-editing-value-null
+ * [new branch]            revert-70120-default-unsound-nullability -> upstream/revert-70120-default-unsound-nullability
+ * [new branch]            revert-70401-primaryScrollerReland -> upstream/revert-70401-primaryScrollerReland
+ * [new branch]            revert-71598-working_directory_check -> upstream/revert-71598-working_directory_check
+ * [new branch]            revert-72304-flutter-engine-flutter-autoroll-ccbad057-c657-48c0-8ca6-c7a817e924d8-1607984013 -> upstream/revert-72304-flutter-engine-flutter-autoroll-ccbad057-c657-48c0-8ca6-c7a817e924d8-1607984013
+ * [new branch]            revert-75160-conditional_dart_define -> upstream/revert-75160-conditional_dart_define
+ * [new branch]            revert-76404-flutter-engine-flutter-autoroll-70a5bb13-88aa-42f7-ba5e-049c5c0de978-1613767354 -> upstream/revert-76404-flutter-engine-flutter-autoroll-70a5bb13-88aa-42f7-ba5e-049c5c0de978-1613767354
+ * [new branch]            revert-77479-flutter-plugins-flutter-autoroll-62dbd853-d876-45e9-b4b0-3f736d887749-1615052491 -> upstream/revert-77479-flutter-plugins-flutter-autoroll-62dbd853-d876-45e9-b4b0-3f736d887749-1615052491
+ * [new branch]            revert-80059-revert-76102-0216bar -> upstream/revert-80059-revert-76102-0216bar
+ * [new branch]            revert-81813-ExpansionPanelList_elevation -> upstream/revert-81813-ExpansionPanelList_elevation
+ * [new branch]            revert-82564-channelbuffers -> upstream/revert-82564-channelbuffers
+ * [new branch]            revert-82570-patch-1   -> upstream/revert-82570-patch-1
+ * [new branch]            revert-84342-flutter-engine-flutter-autoroll-a31192cf-636b-427f-821f-ace70b4be488-1623321347 -> upstream/revert-84342-flutter-engine-flutter-autoroll-a31192cf-636b-427f-821f-ace70b4be488-1623321347
+ * [new branch]            revert-86171-revert-83924-textTheme -> upstream/revert-86171-revert-83924-textTheme
+ * [new branch]            revert-86198-deprecate_appbar_backwards_compatibility_flag -> upstream/revert-86198-deprecate_appbar_backwards_compatibility_flag
+ * [new branch]            revert-89885-scrollVelocity -> upstream/revert-89885-scrollVelocity
+ * [new branch]            revert-skia-to-82d4c12d -> upstream/revert-skia-to-82d4c12d
+ * [new branch]            rm-vmservice-extension -> upstream/rm-vmservice-extension
+ * [new branch]            stable                 -> upstream/stable
+ * [new branch]            test                   -> upstream/test
+ * [new branch]            test2                  -> upstream/test2
+ * [new branch]            timsneath-accent-deprecations -> upstream/timsneath-accent-deprecations
+ * [new branch]            v1.12.13-hotfixes      -> upstream/v1.12.13-hotfixes
+ * [new branch]            v1.4.5-hotfixes        -> upstream/v1.4.5-hotfixes
+ * [new branch]            v1.4.6-hotfixes        -> upstream/v1.4.6-hotfixes
+ * [new branch]            v1.4.9-hotfixes        -> upstream/v1.4.9-hotfixes
+ * [new branch]            v1.5.4-hotfixes        -> upstream/v1.5.4-hotfixes
+ * [new branch]            v1.7.8-hotfixes        -> upstream/v1.7.8-hotfixes
+ * [new branch]            v1.9.1-hotfixes        -> upstream/v1.9.1-hotfixes
+ * [new branch]            zanderso-patch-1       -> upstream/zanderso-patch-1
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git --hard upstream/main
+unknown option: --hard
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git reset --hard upstream/main
+fatal: ambiguous argument 'upstream/main': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> master, upstream/master, origin/master, origin/HEAD)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git stash pop
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+Dropped refs/stash@{0} (2aae4558626268a5d6d7ffb009ad1311d978fb75)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git stash
+Saved working directory and index state WIP on master: 83dfb2237a 31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git pull upstream main
+fatal: couldn't find remote ref main
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> master, upstream/master, origin/master, origin/HEAD)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git checkout Shantanu
+Switched to branch 'Shantanu'
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu, upstream/Shantanu, origin/Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git checkout main
+error: pathspec 'main' did not match any file(s) known to git
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> master, upstream/master, origin/master, origin/HEAD)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git stash
+No local changes to save
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git checkout Shantanu
+Switched to branch 'Shantanu'
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (HEAD -> Shantanu, upstream/Shantanu, origin/Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git stash pop
+On branch Shantanu
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+Dropped refs/stash@{0} (29bc781a93eadc90ce9e798188a09bf939fdbd9c)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   names.txt
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git commit -m "Commmited again"
+[Shantanu dc6fd83ff8] Commmited again
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 names.txt
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git status
+On branch Shantanu
+nothing to commit, working tree clean
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git log
+commit dc6fd83ff8cc53dba6386317ab0bd702dd90bc8d (HEAD -> Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:01:01 2021 +0530
+
+    Commmited again
+
+commit 6dd74443d4fe1a3f6cba4cda71c09e07d052590e (upstream/Shantanu, origin/Shantanu)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 15:11:07 2021 +0530
+
+    Shantanu added a message
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git push origin Shantanu
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 276 bytes | 46.00 KiB/s, done.
+Total 3 (delta 1), reused 1 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Shantanu66/flutter.git
+   6dd74443d4..dc6fd83ff8  Shantanu -> Shantanu
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (Shantanu)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git branch temp
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (master)
+$ git checkout temp
+Switched to branch 'temp'
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ touch 1
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .; git commit -m "1"
+[temp ad23b8f821] 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 1
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ touch 2
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .; git commit -m "1"
+[temp d553051c33] 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 2
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ touch 3
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .; git commit -m "1"
+[temp 40dc042883] 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 3
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ touch 4
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .; git commit -m "1"
+[temp 2bb281a996] 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 4
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit 2bb281a99612f6fd4e3e07682e7eecba70a981f5 (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:06:21 2021 +0530
+
+    1
+
+commit 40dc042883387abb282062d415d2426a1d0d214a
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:06:12 2021 +0530
+
+    1
+
+commit d553051c33f6bfaec7433206a9a21b555e73b7db
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:06:08 2021 +0530
+
+    1
+
+commit ad23b8f821f770859f2c8d0d9be26a99cb79e39b
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git reset ad23b8f821f770859f2c8d0d9be26a99cb79e39b
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit ad23b8f821f770859f2c8d0d9be26a99cb79e39b (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git status
+On branch temp
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        2
+        3
+        4
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git status
+On branch temp
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   2
+        new file:   3
+        new file:   4
+
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit ad23b8f821f770859f2c8d0d9be26a99cb79e39b (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .; git commit -m "1"
+[temp 8629757a37] 1
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 2
+ create mode 100644 3
+ create mode 100644 4
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit 8629757a37a97ff7dcf38191ead9709707a3b264 (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:09:20 2021 +0530
+
+    1
+
+commit ad23b8f821f770859f2c8d0d9be26a99cb79e39b
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git rebase -i 83dfb2237a22ad92c38e345b3aa85aeecae732aa
+[detached HEAD e250633bc8] 1
+ Date: Sat Sep 18 21:05:54 2021 +0530
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 1
+ create mode 100644 2
+ create mode 100644 3
+ create mode 100644 4
+Successfully rebased and updated refs/heads/temp.
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit e250633bc8a882cc97ee7b6dd4a24801d36ee8bc (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+    1
+
+    commits merged
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit e250633bc8a882cc97ee7b6dd4a24801d36ee8bc (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:05:54 2021 +0530
+
+    1
+
+    1
+
+    commits merged
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git reset 83dfb2237a22ad92c38e345b3aa85aeecae732aa
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> temp, upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git status
+On branch temp
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1
+        2
+        3
+        4
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git add .
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git commit -m "hello"
+[temp 3d461ccebf] hello
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 1
+ create mode 100644 2
+ create mode 100644 3
+ create mode 100644 4
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit 3d461ccebffec29ae9a35fc793662fb72885600d (HEAD -> temp)
+Author: Maxman <shantanur66@gmail.com>
+Date:   Sat Sep 18 21:25:09 2021 +0530
+
+    hello
+
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git reset --hard 83dfb2237a22ad92c38e345b3aa85aeecae732aa
+HEAD is now at 83dfb2237a 31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+Shantanu@SHANTANU-ROG MINGW64 ~/Desktop/flutter (temp)
+$ git log
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> temp, upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+:
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> temp, upstream/master, origin master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+:
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> temp, upstream/master, originer)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+
+:
+commit 83dfb2237a22ad92c38e345b3aa85aeecae732aa (HEAD -> temp, upstream/master, origin/master, origin/HEAD, master)
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 23:48:04 2021 -0400
+
+    31792e034 Roll Skia from 3299eb7febaf to dcfa824c3830 (1 revision) (flutter/engine#28699) (#90308)
+
+commit 472ac66f23d33e6fa0ae3b4fe25d84aef03e4afb
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 22:43:04 2021 -0400
+
+    Roll Engine from 47b452783334 to 27281c426f22 (2 revisions) (#90305)
+
+commit 58056bbe74ebb26f7c1c7fde66fc9bef377e0f96
+Author: Jason Simmons <jason-simmons@users.noreply.github.com>
+Date:   Fri Sep 17 19:18:03 2021 -0700
+
+    Close the IntegrationTestTestDevice stream when the VM service shuts down (#90022)
+
+commit 0ef59eeb1dee211fb405cef4006a7817f6f88585
+Author: engine-flutter-autoroll <engine-flutter-autoroll@skia.org>
+Date:   Fri Sep 17 21:38:02 2021 -0400
+:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
